@@ -50,6 +50,7 @@ jis bhi coloum ko hum primary key banai gay us coloum ki sari values unique honi
 
 foreign key ya to coloum hote hay ya phir set of coloum 
 foreign key ka basic kaam hota hay 2 tables ko link karna
+foreign key duplicate bhi ho sakti hay and null bhi
 
 	Default
 coloum ki default value ko set karna
@@ -121,5 +122,5 @@ is sa hum apny table ka koi new name set karsakty hay
 	Cascading Foreign key
 is ma humary pass agr aik chees change hoge to dosri jaga bhi hona chahiye
 yani use karnyka method (ON DELETE CASCADE  OR ON UPDATE CASCADE)
-43:00
+1:01:20
 
