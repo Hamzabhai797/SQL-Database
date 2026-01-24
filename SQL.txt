@@ -65,6 +65,9 @@ primary key constraint kisi bhi coloum ko (UNIQUE and NOT NULL) bana deta hay
 	check constraint
 is sa values pa hum limit laga sakty hay
 
+	Distinct
+ya lagany sa humary pass duplicate values nahi aei ge just aik martaba show ho ge
+
 	SELECT
 database ke under sa jab bhi hum data ko select kar ke dekhna hota hay us ke liay select cmd ko use karty hay
 Is ma agr hum (DISTINCT) ka use kary to duplicate values nahi dekhy ge
@@ -122,5 +125,5 @@ is sa hum apny table ka koi new name set karsakty hay
 	Cascading Foreign key
 is ma humary pass agr aik chees change hoge to dosri jaga bhi hona chahiye
 yani use karnyka method (ON DELETE CASCADE  OR ON UPDATE CASCADE)
-1:01:20
+1:20:00
 
