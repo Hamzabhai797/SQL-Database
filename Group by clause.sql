@@ -13,8 +13,8 @@ INSERT INTO student (rollNum, name, marks, grade, city) VALUES
 (103, 'Bilal', 70, 'B', 'Lahore'),
 (104, 'Nabeel', 65, 'C', 'Faisalabad'),
 (105, 'ghani', 60, 'C', 'ISL');
-SELECT marks FROM student;
-SELECT MAX(marks) FROM student;
-SELECT MIN(marks) FROM student;
-SELECT AVG(marks) FROM student;
-SELECT COUNT(city) FROM student;
+SELECT city, COUNT(name) FROM student GROUP BY city;
+SELECT city, rollNum, COUNT(name) FROM student GROUP BY city, rollNum;
+SELECT city, AVG(marks) FROM student GROUP BY city;
+-- Practice
+SELECT city, AVG(marks) FROM student GROUP BY city ORDER BY city;
