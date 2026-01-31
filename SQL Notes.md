@@ -125,5 +125,7 @@ is sa hum apny table ka koi new name set karsakty hay
 	Cascading Foreign key
 is ma humary pass agr aik chees change hoge to dosri jaga bhi hona chahiye
 yani use karny ka method (ON DELETE CASCADE  OR ON UPDATE CASCADE)
-2:10:00
+
+
+2:21:00
 
