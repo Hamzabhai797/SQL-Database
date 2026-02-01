@@ -126,6 +126,10 @@ is sa hum apny table ka koi new name set karsakty hay
 is ma humary pass agr aik chees change hoge to dosri jaga bhi hona chahiye
 yani use karny ka method (ON DELETE CASCADE  OR ON UPDATE CASCADE)
 
+	Truncate
+ya table ke data ko delete karny ke liay hota hay
 
-2:21:00
+	SQL join
+Joins ko hum multiple tables ka data ko cmbine karny ke liay
+2:25:00
 
