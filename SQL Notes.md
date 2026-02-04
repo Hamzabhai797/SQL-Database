@@ -130,6 +130,10 @@ yani use karny ka method (ON DELETE CASCADE  OR ON UPDATE CASCADE)
 ya table ke data ko delete karny ke liay hota hay
 
 	SQL join
-Joins ko hum multiple tables ka data ko cmbine karny ke liay
-2:25:00
+Joins ko hum multiple tables ka data ko cmbine karny ke liay 
+is ma humary pass 2 column aik jesy hony chahiye
+
+	left join
+ya mujhe left side ka data to dega and saat ma dosry table ke saat jo data overlap hoga wo bhi dega
+2:40:00
 
