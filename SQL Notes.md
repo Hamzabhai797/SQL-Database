@@ -135,5 +135,10 @@ is ma humary pass 2 column aik jesy hony chahiye
 
 	left join
 ya mujhe left side ka data to dega and saat ma dosry table ke saat jo data overlap hoga wo bhi dega
-2:40:00
+
+	Sub query
+sub query likhny ka 3 tareeqy hoty hay
+select ke ander, from ka ander likhy and where clause ke ander likhy
+
+3:05:30
 
